@@ -1,0 +1,15 @@
+#core
+pandas
+plotly_express
+streamlit
+nbformat
+tabulate
+
+# Core LangChain e Google Gemini (o agente de execução)
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+
+langchain-experimental
+langgraph
